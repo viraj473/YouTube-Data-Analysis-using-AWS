@@ -1,4 +1,4 @@
-# Kaggle-YouTube-Data-Analysis
+# YouTube-Data-Analysis-using-AWS
 ## Overview
 This project focuses on the secure management, efficient streamlining, and analysis of both structured and semi-structured YouTube video data, categorized by video types and trending metrics.
 

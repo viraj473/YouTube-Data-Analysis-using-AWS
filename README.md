@@ -24,4 +24,4 @@ The dataset from Kaggle contains daily statistics (CSV files) on popular YouTube
 [Kaggle YouTube Dataset](https://www.kaggle.com/datasets/datasnaek/youtube-new)
 
 ## Architecture Diagram
-Include your architecture diagram here
+![Architecture Diagram](https://github.com/viraj473/Kaggle-YouTube-Data-Analysis/blob/main/Architecure.jpg)
